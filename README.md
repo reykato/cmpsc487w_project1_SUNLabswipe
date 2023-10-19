@@ -1,4 +1,4 @@
-## CMPSC 487W Project 1: CRUD Web Application
-Database System: SQLite\
-Programming Language: Python using Django for web development and web hosting\
-Presentation Video: x
+## CMPSC 487W Project 1: SUN Lab Swipe and Admin Interface
+Database System: MySQL with phpMyAdmin web interface\
+Programming Language: C# using Winforms and .NET framework\
+Presentation Video: https://youtu.be/Ycppw9gVd-s
